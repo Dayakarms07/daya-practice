@@ -1,2 +1,3 @@
 # daya-practice
-this is my practice git repository
+This is my practice git repository
+Author - Dayakar Reddy
